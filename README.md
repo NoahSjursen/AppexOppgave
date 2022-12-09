@@ -1,5 +1,6 @@
 # AppexOppgave
 ""
+
 Lag en web applikasjon som lar deg lagre potensielle kunder basert på oppslag/data om bedrifter fra Brønnøysundregisteret. 
 Brukeren må kunne registrere/lagre ekstra informasjon om hver bedrift, f.eks. et notat.
  
