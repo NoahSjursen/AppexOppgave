@@ -23,3 +23,5 @@ og lagt inn i tekstvinduet oppe til høyre.
 over tekstvinduet fins det to linker som tar deg til bedriftens nettside, og bruker organisasjonsnummeret som tar deg til proff.no
 
 under så kan du skrive notater og lagre de i en tekstfil, der infoen fra tabellen og notatene dine blir lagret sammen.
+
+Jeg er ikke ferdig med prosjektet enda, så jeg kommer til å oppdatere repository videre.
